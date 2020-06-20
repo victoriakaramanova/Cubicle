@@ -3,3 +3,5 @@ apps
 buckets
 cache
 shims
+.vscode/
+persist/
